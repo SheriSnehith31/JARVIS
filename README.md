@@ -1,4 +1,4 @@
-# JARVIS (Just a Rather Very Intelligent System)
+# JARVIS 
 
 #### This was my attempt to make a voice assistant similar to JARVIS (in iron man movie)
 #### Let's be honest, it's not as intelligent as in the movie, but it can do a lot of cool things and automate your daily tasks you do on your personal computers/laptops.
@@ -10,7 +10,7 @@
 
 ## Features
 
-#### For a cool demo of this project watch this [YouTube video](https://www.youtube.com/watch?v=oKtrHy0ERNA)
+#### For a cool demo of this project watch this 
 
 It can do a lot of cool things, some of them being:
 
@@ -82,11 +82,6 @@ To run this program you will require a bunch of API keys. Register your API key 
   - Add the function's definition to __init__.py
   - Add the voice commands through which you want to invoke the function
 
-## Contribute
-Please read [CONTRIBUTING.md](https://github.com/Gladiator07/JARVIS/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
-
-## License
-This project is licensed under [MIT License](https://github.com/Gladiator07/JARVIS/blob/master/LICENSE) 2021 Atharva Ingle
 
 ## Future Improvements
 - Generalized conversations can be made possible by incorporating Natural Language Processing
